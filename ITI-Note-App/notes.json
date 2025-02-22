@@ -1,0 +1,52 @@
+{
+  "notes": [
+    {
+      "id": "4e1a",
+      "title": "Studying",
+      "description": "Study all the lectures for the upcoming exam.",
+      "modifiedAt": "2024-12-10"
+    },
+    {
+      "id": "2a3b",
+      "title": "Grocery Shopping",
+      "description": "Buy vegetables, fruits, and dairy products for the week.",
+      "modifiedAt": "2024-12-12"
+    },
+    {
+      "id": "7d8c",
+      "title": "Workout Plan",
+      "description": "Run for 30 minutes and do strength training for 45 minutes.",
+      "modifiedAt": "2024-12-15"
+    },
+    {
+      "id": "9f0e",
+      "title": "Meeting Preparation",
+      "description": "Prepare presentation slides for the meeting tomorrow.",
+      "modifiedAt": "2024-12-16"
+    },
+    {
+      "id": "3b4f",
+      "title": "Reading",
+      "description": "Read 50 pages of the new book I bought last week.",
+      "modifiedAt": "2024-12-18"
+    },
+    {
+      "id": "5c7d",
+      "title": "Coding Session",
+      "description": "Work on the JavaScript project and fix bugs in the code.",
+      "modifiedAt": "2024-12-19"
+    },
+    {
+      "id": "1a2d",
+      "title": "Relaxing",
+      "description": "Watch a movie and unwind after a long day of work.",
+      "modifiedAt": "2024-12-20"
+    },
+    {
+      "id": "0e3a",
+      "title": "Weekend Trip",
+      "description": "Plan a weekend trip to the mountains for hiking and relaxation.",
+      "modifiedAt": "2024-12-22"
+    }
+  ]
+}
